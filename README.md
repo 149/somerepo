@@ -93,6 +93,15 @@ You can publish your document by opening the <i class="icon-upload"></i> **Publi
 - HTML, to publish the document converted into HTML (on a blog for example),
 - Template, to have a full control of the output.
 
+1. fdfsf
+1. dsf
+1. fds
+1. fdsf
+
+<strong>this is crap!</strong>
+
+<div style="color:red;">hello red!</div>
+
 > **Note:** The default template is a simple webpage wrapping your document in HTML format. You can customize it in the **Advanced** tab of the <i class="icon-cog"></i> **Settings** dialog.
 
 #### <i class="icon-upload"></i> Update a publication
