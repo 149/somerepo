@@ -13,6 +13,8 @@ Hey! I'm your first Markdown document in **StackEdit**[^stackedit]. Don't delete
 
 ![Alt text](http://placehold.it/640x300)
 
+##Another Header Changed
+
 
 Documents
 -------------
