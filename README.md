@@ -13,6 +13,10 @@ Hey! I'm your first Markdown document in **StackEdit**[^stackedit]. Don't delete
 
 ![Alt text](http://placehold.it/640x300)
 
+##another header changed in WC
+
+Here
+
 ##Another Header Changed
 
 here's some content added in coda.
