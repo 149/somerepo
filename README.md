@@ -11,6 +11,7 @@ Hey! I'm your first Markdown document in **StackEdit**[^stackedit]. Don't delete
 ####Header4
 #####Header5
 
+![Alt text]({{site.baseurl}}/http://placehold.it/640x300)
 
 Documents
 -------------
